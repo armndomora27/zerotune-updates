@@ -1,8 +1,9 @@
 {
-  "latestVersion": "1.1.2",
-  "latestBuild": 4,
+  "latestVersion": "1.1.3",
+  "latestBuild": 5,
   "mandatory": true,
-  "apkUrl": "https://github.com/armndomora27/zerotune-updates/releases/download/v1.1.2/ZeroTune.v1.1.2.apk",
-  "sha256": "DEBCB426474D3E2757410BF0D37D5F674BBD87D29901438C261866611326E5EA",
-  "message": "¡Actualización obligatoria crítica! Conexión y seguridad restablecidas."
+  "apkUrl": "https://github.com/armndomora27/zerotune-updates/releases/download/v1.1.3/ZeroTune.v1.1.3.apk",
+  "sha256": "AE3668CF83CC34CD91F4964AE80A9EDDBFA1E7503F7CA8C7E71F5F11F6DACD51",
+  "message": "¡Actualización obligatoria crítica! Conexión y seguridad restablecidas
+  tambien incluye optimizacion de carga de videos y activacion de las descargas ."
 }
